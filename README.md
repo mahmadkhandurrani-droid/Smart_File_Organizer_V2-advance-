@@ -10,13 +10,22 @@ It is built with a modular design to ensure scalability, maintainability, and ea
 
 
 **⚙️ Features**
+
 📂 Automatically organizes files by extension
+
 🧠 Extension-based category mapping system
+
 🛡️ Built-in error handling for safe execution
+
 📝 Logging system to track all file operations
+
 🧩 Modular architecture (clean separation of logic)
+
 🔄 Easily extendable for new file types
+
 🧱 Project Structure (Example)
+
+🧾 Pytest 
 
 
 Smart_File_Organizer_V2/
@@ -31,16 +40,23 @@ Smart_File_Organizer_V2/
 📌 How It Works
 Scans the target directory for files
 Extracts file extensions
+
 Matches extensions with predefined categories
+
 Creates destination folders if needed
 Moves files safely
+
 Logs every operation for tracking and debugging
 
 📊 Logging
 Every action performed by the script is recorded, including:
+
 File movements
+
 Errors encountered
+
 System operations
+
 This helps in debugging and monitoring automation activity.
 
 🧠 Why This Project Matters
