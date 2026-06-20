@@ -32,10 +32,11 @@ Smart_File_Organizer_V2/
 │
 ├── main.py
 ├── scanner.py
-├── mover.py
-├── logger.py
-├── config.json
+├── renamer.py
+├── mylogger.py
+├── file_type_deyection
 └── README.md
+|__ folder creation 
 
 📌 How It Works
 Scans the target directory for files
